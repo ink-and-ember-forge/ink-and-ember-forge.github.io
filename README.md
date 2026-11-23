@@ -1,6 +1,6 @@
 # Ink and Ember Forge website
 
-This website acts as a personal portfolio and a project directory for the work I have published through Github.
+This website acts as a personal portfolio and a project directory for the work I have published through GitHub.
 
 ## Description
 
